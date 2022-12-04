@@ -1,0 +1,18 @@
+.odd-element {
+    background-color: rgb(219, 124, 187);
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#sec-element {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size{
+    font-size: 24px;
+}
+
+#forth {
+    background-color: rgb(72, 224, 72);
+    font-weight: bold;
+}
